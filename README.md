@@ -255,6 +255,10 @@ Follow the [procedure for each task](#procedure-for-each-task).
 
     Alternatively, choose another full-stack product with at least a million users. In that case, you'll have to [visualize the architecture](./Appendix.md#visualize-the-architecture) on your own.
 
+   > [!NOTE]
+   > The provided architecture diagrams are based on educated guesses since the products in the list are mostly closed-source.
+   > All diagrams were generated via Gemini 3 Pro (free web version) and edited by the course instructors.
+
 4. [ ] Find the directory with the product's architecture diagrams in two formats:
     - `PlantUML` code in `./docs/diagrams/src/<product-name>`.
     - Rendered architecture diagrams in `./docs/diagrams/out/<product-name>`.
